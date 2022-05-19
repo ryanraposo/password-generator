@@ -9,7 +9,7 @@ A secure password generator.
 * JavaScript
 
 ## Website
-https://ryanraposo.github.io/secure-password/
+https://ryanraposo.github.io/password-generator/
 
 ## Contribution
 Made with ❤️ by Ryan Raposo
