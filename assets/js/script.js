@@ -1,5 +1,5 @@
-const passwordTextArea = document.getElementById('passwordTextArea')
-const generateButton = document.getElementById('generateButton')
+const passwordTextArea = document.getElementById('password')
+const generateButton = document.getElementById('generate')
 
 const LOWERCASE = "abcdefghijklmnopqrstuvwxyz";
 const UPPERCASE = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -42,7 +42,6 @@ function generatePassword(passwordLength, lowercaseCharacters, uppercaseCharacte
     return result;
 
 }
-
 
 function onClickGenerateButton() {
 
